@@ -13,3 +13,6 @@ This project documents a basic cloud infrastructure deployment.
 - docs/: Deployment documentation
 - scripts/: Automation scripts
 - configs/: Monitoring configuration
+
+## Monitoring
+The server monitoring configuration has been reviewed and updated.
